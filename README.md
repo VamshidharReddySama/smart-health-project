@@ -1,1 +1,1 @@
-# smart-health-project
+# smart
